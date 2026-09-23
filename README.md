@@ -10,7 +10,7 @@ Using custom **DAX measures** and interactive **Power BI** visuals, the data was
 
 ## People Analytics Dashboard
 
-![People Analytics Dashboard](Images/People_Analytics_Dashboard.png)
+![Dashboard Page 1](/Images/People_Analytics_Dashboard.PNG)
 
 The **People Analytics Dashboard** provides a consolidated view of workforce size, movement, and composition throughout 2025. Custom DAX measures were developed to distinguish month-end snapshot metrics, such as **Ending Headcount** and **Ending Active FTE**, from period-based workforce flows, including hires, terminations, net hires, and attrition.
 
@@ -26,7 +26,7 @@ Interactive **Period** and **Department** slicers allow users to explore the sam
 
 ## Compensation & Benefits Dashboard
 
-![Compensation & Benefits Dashboard](Images/Compensation_Benefits_Dashboard.png)
+![Dashboard Page 1](/Images/Compensation_Benefits_Dashboard.PNG)
 
 The **Compensation & Benefits Dashboard** focuses on employer costs, salary structures, and employee positioning within defined pay ranges. All monetary values are presented in **RSD**, while custom DAX measures calculate total and average employer costs, base salary per FTE, salary band benchmarks, and compa-ratio indicators under the active filter context.
 
